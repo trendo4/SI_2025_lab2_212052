@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-25T18:04:44.722Z" hostname="BORIS" time="0.024">
+  <properties/>
+  <testcase name="testInvalidItemName()" classname="SILab2Test" time="0.016"/>
+  <testcase name="testItemWithDiscountAndPriceGreaterThan300()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testInvalidCardNumber()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testNullListThrowsException()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testValidItemNoDiscount()" classname="SILab2Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
